@@ -3,7 +3,7 @@
 Plugin Name: Inventiv Advertisement Manager
 Plugin URI: http://inventiv.ph/
 Version: 
-Author: Inventiv Media
+Author: Inventiv Media Inc
 Description:Inventiv Advertisement Manager
 */	
 
