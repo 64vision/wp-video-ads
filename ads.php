@@ -2,7 +2,7 @@
 /*
 Plugin Name: Inventiv Advertisement Manager
 Plugin URI: http://inventiv.ph/
-Version: 
+Version: 1.0
 Author: Inventiv Media Inc
 Description:Inventiv Advertisement Manager
 */	
